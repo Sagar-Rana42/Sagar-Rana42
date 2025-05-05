@@ -14,7 +14,14 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Achievemen</h2>
+<p align="left">Winner of  </p>
+
+
+<h2 align="left">Winner of University Code Competition, showcasing competitive programming abilities. </h2>
+<h2 align="left">Solved 350+ problems on LeetCode, strengthening problem-solving skills in data structures 
+and algorithms.  </h2>
+
 
 ###
 
